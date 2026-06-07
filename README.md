@@ -38,12 +38,12 @@ Using real-world EV charging datasets, the framework predicts charging demand, d
 
 ## Datasets
 
-### ACN-Data (Caltech)
+### ACN-Data
 
 * 14,999 EV charging sessions
 * Includes charging duration, energy delivered, station information, and session timestamps
 
-### UrbanEV (Shenzhen)
+### UrbanEV
 
 * 247 charging grids
 * 8,640 temporal observations
